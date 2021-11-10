@@ -8,4 +8,7 @@
     <string name="registration">Registration</string>
     <string name="sign_in">Sign in</string>
     <string name="login">login</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="mobile_verification">Mobile Verification</string>
+    <string name="submit">Submit</string>
 </resources>
