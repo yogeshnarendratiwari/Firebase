@@ -23,7 +23,7 @@ public class Signup extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_signup);
         Button submit = findViewById(R.id.submit);
-        EditText email = findViewById(R.id.email);
+        EditText email = findViewById(R.id.otp);
         EditText password = findViewById(R.id.password);
         mAuth = FirebaseAuth.getInstance();
 
